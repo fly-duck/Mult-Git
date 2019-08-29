@@ -1,0 +1,6 @@
+# *.pyc
+# *.swp
+# *.swo
+.vscode
+build_isolated
+devel_isolated
